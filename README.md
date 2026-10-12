@@ -22,6 +22,6 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 
 ## Identificação (preencha após o fork)
 
-Nome: 
-RA: 
-URL: https://
+Nome: João Vytor Kruger
+RA: 2026108220
+URL: https://2bim-avalia1-joao-vytor-kruger.pages.dev
