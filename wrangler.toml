@@ -1,0 +1,11 @@
+name = "2bim-avalia1-joao-vytor-kruger"
+pages_build_output_dir = "./public"
+compatibility_date = "2026-10-12"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "desenho-assinado-db"
+database_id = "ce5a32af-bef0-4fdc-a718-bb410332581f"
+
+[vars]
+GOOGLE_CLIENT_ID = "320748226260-622n6l6kkl4acp1057h6mtrfvr7nd513.apps.googleusercontent.com"
