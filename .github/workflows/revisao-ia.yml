@@ -46,6 +46,7 @@ jobs:
         with:
           prompt-file: prompt.txt
           system-prompt: Voce e um revisor de codigo objetivo.
+          model: auto
 
       - name: Comenta no Pull Request
         env:
