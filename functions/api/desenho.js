@@ -126,3 +126,9 @@ export async function onRequest({ request, env }) {
         }
     });
 }
+async function consultarNotaTeste(env, nome) {
+  return env.DB.prepare(
+    "SELECT * FROM notas WHERE aluno = ?"
+  ).bind(nome).all();
+}
+
