@@ -25,3 +25,5 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 Nome: João Vytor Kruger
 RA: 2026108220
 URL: https://2bim-avalia1-joao-vytor-kruger.pages.dev
+
+Teste do GitHub Actions: alteração apenas na documentação para verificar que o workflow de migração D1 não é executado.
